@@ -58,4 +58,10 @@ A case of overthinking it. Most of the code to solve this was laid out above. Ju
 
 # Choose the station with the highest number of temperature observations.
 # Query the last 12 months of temperature observation data for this station and plot the results as a histogram
-For this, I created a query based on the "last 12 months" info from earlier and added a filter for the most active station. Then, I converted this information into a DataFrame and found a simple histogram code via Matplotlib documentation. 
+For this, I created a query based on the "last 12 months" info from earlier and added a filter for the most active station. Then, I converted this information into a DataFrame and found a simple histogram code via Matplotlib documentation.
+
+# BIG THANKS
+AskBCS for the clutch solutions
+Sean (Instructor) for the flexibility and patience
+The folks at StackO for sharing their work
+Erika (partner) for the time and encouragement
